@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="true_button">Yes</string>
+    <string name="false_button">No</string>
+    <string name="next_button">Next</string>
+    <string name="streak">Streak:</string>
+    <string name="streak_val">0</string>
+    <string name="score">Score:</string>
+    <string name="score_val">0</string>
+    <string name="back_button">Back</string>
+</resources>
